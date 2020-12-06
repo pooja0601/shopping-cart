@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1607245211264" clover="3.2.0">
+  <project timestamp="1607245211264" name="All files">
+    <metrics statements="40" coveredstatements="40" conditionals="14" coveredconditionals="14" methods="8" coveredmethods="8" elements="62" coveredelements="62" complexity="0" loc="40" ncloc="40" packages="1" files="4" classes="4"/>
+    <file name="add-to-cart.js" path="C:\Users\Pooja\Desktop\shopping-cart\add-to-cart.js">
+      <metrics statements="20" coveredstatements="20" conditionals="9" coveredconditionals="9" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="6" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="21" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="27" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+    </file>
+    <file name="calculate-cart-amount.js" path="C:\Users\Pooja\Desktop\shopping-cart\calculate-cart-amount.js">
+      <metrics statements="12" coveredstatements="12" conditionals="5" coveredconditionals="5" methods="3" coveredmethods="3"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="10" count="9" type="stmt"/>
+      <line num="11" count="9" type="stmt"/>
+      <line num="13" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="17" count="8" type="stmt"/>
+      <line num="20" count="10" type="stmt"/>
+      <line num="26" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="31" count="8" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+    </file>
+    <file name="get-all-products.js" path="C:\Users\Pooja\Desktop\shopping-cart\get-all-products.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="10" type="stmt"/>
+      <line num="15" count="10" type="stmt"/>
+      <line num="18" count="3" type="stmt"/>
+    </file>
+    <file name="get-product-by-Id.js" path="C:\Users\Pooja\Desktop\shopping-cart\get-product-by-Id.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="4" count="9" type="stmt"/>
+      <line num="5" count="13" type="stmt"/>
+      <line num="6" count="9" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
